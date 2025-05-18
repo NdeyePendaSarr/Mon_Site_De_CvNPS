@@ -485,7 +485,11 @@ h4{
         flex-grow: 1;
         justify-content: flex-start; 
     }
-
+    .site-title {
+       
+        font-size: 1.0rem;
+        
+    }
     
     .checkbtn {
         display: block;
@@ -545,7 +549,9 @@ h4{
     }
 
     .site-title {
-        font-size: 1.1rem;
+       
+        font-size: 1.0rem;
+        
     }
   }
 @media (max-width: 768px)
@@ -584,6 +590,11 @@ h4{
     .progress
     {
         background-color: #1A0DAB;
+    }
+    .site-title {
+       
+        font-size: 1.0rem;
+        
     }
 }
 
@@ -700,6 +711,11 @@ h4{
         text-align: center; 
         margin: 75px 0;
     }
+    .site-title {
+       
+        font-size: 1.0rem;
+        
+    }
 }
 
 @media (min-width: 768px) and (max-width: 1124px) {
@@ -759,6 +775,11 @@ h4{
         height: 10px; 
         background-color: #1A0DAB;
     }
+    .site-title {
+       
+        font-size: 1.0rem;
+        
+    }
 }
 
 /* Écrans intermédiaires (tablettes) page Accueil.html */
@@ -796,7 +817,11 @@ h4{
         color: #1A0DAB;
     }
 
-    
+    .site-title {
+       
+        font-size: 1.0rem;
+        
+    }
     
 }
 
@@ -870,6 +895,11 @@ h4{
     #image {
         width: 70px;
     }
+    .site-title {
+       
+        font-size: 1.0rem;
+        
+    }
 }
 
 @media (max-width: 768px) {
@@ -889,6 +919,11 @@ h4{
 
     #image {
         width: 80px;
+    }
+    .site-title {
+       
+        font-size: 1.0rem;
+        
     }
 }
 
@@ -972,6 +1007,11 @@ h4{
         font-size: 0.9rem;
        
     }
+    .site-title {
+       
+        font-size: 1.0rem;
+        
+    }
     
 }
 /* Media Queries de la partie qualité page d'accueil */
@@ -1020,6 +1060,11 @@ h4{
         font-size: 20px;
         text-align: center; 
         font-weight: normal;
+    }
+    .site-title {
+       
+        font-size: 1.0rem;
+        
     }
     
 }
